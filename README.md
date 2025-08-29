@@ -36,7 +36,7 @@ Deployment (Optional): Streamlit / Flask / Django
 
 Clone this repository:
 
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/Kamal007sha/heart-disease-prediction.git
 cd heart-disease-prediction
 
 
